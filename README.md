@@ -1,3 +1,7 @@
+TODO: <br/>
+----
+- Encode and Decode Huffman tree
+
 TESTED IN: <br/>
 ----
 - Python 3.10
