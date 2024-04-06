@@ -1,9 +1,9 @@
-TESTED IN: 
+TESTED IN: <br/>
 Python 3.10
 
-TO RUN:
+TO RUN:<br/>
 python3 main.py -f [filename]
 
-INCLUDED FILES:
-main.py, program
+INCLUDED FILES:<br/>
+main.py, program <br/>
 several *.txt files for demonstration purposes
